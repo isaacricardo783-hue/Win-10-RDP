@@ -22,3 +22,5 @@ Click on the copy button to copy each command! ⬇️
 Use the following command:
 
 <pre><code>sudo docker-compose -f windows10.yml up</code></pre>
+## 🛠 Restart  a RDP wen of 
+<pre><code>sudo docker-compose -f windows10.yml restart</code></pre>
